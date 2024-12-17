@@ -1,0 +1,22 @@
+.encabezado{
+  padding: 1%;
+  background-image: url('src/assets/img/Header.jpg');
+  color: white;
+  text-align: center;
+}
+.tarjeta{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  padding: 2%;
+}
+.pie{
+  padding: 2%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.fotopizza{
+  padding: 3%;
+}
