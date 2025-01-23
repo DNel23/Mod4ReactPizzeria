@@ -20,10 +20,24 @@
 .fotopizza{
   padding: 3%;
 }
+.fotopizza1{
+  padding: 2%;
+  height: 7rem;
+  width: 10rem;
+}
 .lblRegistro{
   width: 140px;
 
 }
 .txtRegistro{
   width: 240px;
+}
+.listaCompra{
+  list-style-type: none;
+}
+.tdCarrito{
+  width: 6rem;
+}
+.tdCarrito1{
+  width: 2rem;
 }
